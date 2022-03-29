@@ -6,7 +6,8 @@ public class Example1 {
 		  System.out.println("hello my love");
 				  System.out.println("******");
 
-		
+						  System.out.println("$$$$$$$");
+
 	}
 
 }
