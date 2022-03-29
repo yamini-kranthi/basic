@@ -1,0 +1,17 @@
+
+public class star7 {
+
+	public static void main(String[] args) {
+int n=5;
+     for(int row=1;row<=n;row++) {
+    	 for(int sp=1;sp<=n-row;sp++) {
+    		 System.out.print(" ");
+    	 }
+    	 for(int str=1;str<=2*row-1;str++) {
+    		 System.out.print("*");
+    	 }
+    	 System.out.println();
+     }
+	}
+
+}
