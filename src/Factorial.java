@@ -17,6 +17,6 @@ public class Factorial {
 		   f=f*(num-i);
 	   }
 	   System.out.println(f);
-
+   System.out.println("****");
 }
 }
