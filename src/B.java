@@ -7,8 +7,11 @@ public class B {
         int x,y;
         x=3&5;
         y=3|5;
+		int z=x*y;
         System.out.println(x);
         System.out.println(y);
+	        System.out.println(z);
+	
         
         
 	}
