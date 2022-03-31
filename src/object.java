@@ -2,6 +2,6 @@
 public class object {
         object(){
         }
-        object(){
+        object(int a){
         }
 }
