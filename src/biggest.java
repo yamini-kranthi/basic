@@ -21,6 +21,7 @@ public class biggest {
 
 		} else {
 			System.out.println("d is the greatest number:" + d);
+			System.out.println("this is for practice in git");
 		}
 		sc.close();
 	}
