@@ -9,10 +9,12 @@ public class B {
         y=3|5;
 		int z=x*y;
 		int p=z*x;
+		int q=p/z;
         System.out.println(x);
         System.out.println(y);
 	        System.out.println(z);
 	        System.out.println(p);
+	        System.out.println(q);
 	
         
         
